@@ -1,0 +1,9 @@
+node_modules
+*.js
+*.js.map
+!biginteger.js
+
+
+#ignoring package until proper testing is in place.
+package.json
+test
