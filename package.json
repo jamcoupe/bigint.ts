@@ -1,0 +1,14 @@
+{
+  "name": "encode.ts",
+  "version": "0.0.2",
+
+  "devDependencies": {
+
+  },
+
+  "main": "bigint.js",
+
+  "dependencies": {
+
+  }
+}
