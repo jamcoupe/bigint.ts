@@ -1,2 +1,3 @@
 # bigint.ts
-BigInteger.js wrapper
+
+> Tom Wu's BigInteger.js TypeScript wrapper

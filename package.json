@@ -1,14 +1,7 @@
 {
   "name": "bigint.ts",
   "version": "0.0.1",
-
-  "devDependencies": {
-
-  },
-
-  "main": "bigint.js",
-
-  "dependencies": {
-
-  }
+  "author": "Jamie Couperwhite <jcoup@me.com>",
+  "license": "MIT",
+  "main": "bigint.js"
 }
